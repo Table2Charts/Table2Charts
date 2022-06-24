@@ -1,3 +1,7 @@
+# !DEPRECATED
+
+Please move to https://github.com/microsoft/Table2Charts to see the latest updates!
+
 # Table2Charts: Recommending Charts by Learning Shared Table Representations
 This repository provides code and data of the paper _Table2Charts: Recommending Charts by Learning Shared Table Representations_.
 
